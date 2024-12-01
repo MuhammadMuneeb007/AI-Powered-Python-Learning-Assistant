@@ -614,4 +614,4 @@ dependencies:
     - zope-event==5.0
     - zope-interface==7.1.1
     - zstandard==0.22.0
-prefix: C:\Users\kl\anaconda3\envs\fuck
+prefix: C:\Users\kl\anaconda3\envs\LearnPythonWithAI
