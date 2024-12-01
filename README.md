@@ -3,7 +3,7 @@
 AI-Powered Python Learning Assistant
 
 
-Sample: https://pythononlineide.streamlit.app/
+Sample: [https://pythononlineide.streamlit.app/](https://ai-powered-python-learning-assistant.streamlit.app/)
  
 
 ## Project Description
