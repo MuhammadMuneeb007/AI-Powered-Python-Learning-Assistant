@@ -13,3 +13,4 @@ langsmith==0.1.147
 language-tool-python==2.8
 fpdf==1.7.2
 pdfkit==1.0.0
+PyPDF2==3.0.1
