@@ -376,7 +376,6 @@ tenacity==9.0.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.16.2
-tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 textblob==0.18.0.post0
 textract==1.6.5
