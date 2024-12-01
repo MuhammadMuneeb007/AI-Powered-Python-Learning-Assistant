@@ -23,6 +23,8 @@ plotly==5.24.1
 matplotlib==3.8.3
 reportlab==4.2.5
 reportlib==3.4.0
-
+Markdown==3.6
+markdown-it-py==3.0.0
+markdownify==0.11.6
 
 
