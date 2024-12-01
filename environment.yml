@@ -1,4 +1,4 @@
-name: fuck
+name: LearnPythonWithAI
 channels:
   - conda-forge
   - bioconda
