@@ -11,3 +11,7 @@ langchain-core==0.3.21
 langchain-text-splitters==0.3.2
 langsmith==0.1.147
 language-tool-python==2.8
+fpdf==1.7.2
+pdfkit==1.0.0
+pdfminer.six==20191110
+pdfplumber==0.11.4
