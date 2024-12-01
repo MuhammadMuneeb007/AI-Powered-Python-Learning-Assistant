@@ -7,7 +7,6 @@ from fpdf import FPDF
 import PyPDF2
 import docx
 from io import BytesIO
-import textract
 import streamlit as st
 import subprocess
 import tempfile
@@ -15,7 +14,6 @@ import os
 from datetime import datetime
 from streamlit_ace import st_ace
 import uuid
-import ollama  # Importing ollama package to interact with local Llama model
 import ast
 import re
 import streamlit as st
