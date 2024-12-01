@@ -203,7 +203,6 @@ pytest==8.0.0
 python-docx==1.1.2
 python-dotenv==1.0.1
 python-engineio==4.10.1
-python-graphviz==0.20.3
 python-jobspy==1.1.51
 python-levenshtein==0.25.0
 keyboard==0.13.5
@@ -305,7 +304,6 @@ pytest==8.0.0
 python-docx==1.1.2
 python-dotenv==1.0.1
 python-engineio==4.10.1
-python-graphviz==0.20.3
 python-jobspy==1.1.51
 python-levenshtein==0.25.0
 python-pptx==0.6.23
