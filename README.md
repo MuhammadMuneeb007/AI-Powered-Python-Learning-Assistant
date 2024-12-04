@@ -37,9 +37,9 @@ This project integrates Hugging Face's HuggingChat with an online Python IDE to 
 
 ### 2. Install **Anaconda**
 - Download and install Anaconda from [here](https://www.anaconda.com/products/distribution).
-- After installation, create a new Conda environment using the provided `AdvancedProgramming.yml` file. Run the following command in your terminal:
+- After installation, create a new Conda environment using the provided `LearnPythonWithAI.yml` file. Run the following command in your terminal:
   ```bash
-  conda env create -f environment.yml
+  conda env create -f LearnPythonWithAI.yml
   ```
 - Once the environment is created, activate it using:
   ```bash
